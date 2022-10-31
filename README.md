@@ -95,3 +95,4 @@ This great repo - [ourcade/phaser3-typescript-parcel-template](https://github.co
 
 Pixel artist - [LimeZu](https://limezu.itch.io/)
 
+<hr>
