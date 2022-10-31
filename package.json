@@ -7,7 +7,9 @@
   "author": "Aatmanirbhar",
   "license": "ISC",
   "scripts": {
-    "test": "npx hardhat test"
+    "test": "npx hardhat test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^1.0.1",
