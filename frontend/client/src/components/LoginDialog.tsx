@@ -170,7 +170,7 @@ export default function LoginDialog() {
 
   return (
     <Wrapper onSubmit={handleSubmit}>
-      <Title>Join Virtual Tour</Title>
+      <Title>Connect With Metaverse</Title>
       
     
       <Content>
